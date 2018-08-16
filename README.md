@@ -20,5 +20,11 @@ $ chmod +x fbbrute3.py
 $ python2 fbbrute3.py
 
 
+'''NOTE'''
+
+Sudah Tersedia Wordlist :
+- password.txt
+- password2.txt (password cadangan)
+
 EKAY ANCURTOTAL
 SCARY OF DEMON CYBER
